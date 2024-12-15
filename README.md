@@ -1,0 +1,1 @@
+This repository contains a Dockerfile that demonstrates a common error in Dockerfile building due to missing or incorrect requirements.txt file or insufficient permissions.  The solution demonstrates how to fix these issues. 
